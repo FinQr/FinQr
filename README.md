@@ -17,8 +17,7 @@
 <a href="https://github.com/FinQr/"><img src="https://github-readme-streak-stats.herokuapp.com?user=FinQr&theme=black-ice&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
 
 ## LeetCode
-
-[![IgorFin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IgorFin&theme=dark)](https://leetcode.com/IgorFin)
+[![IgorFin's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=IgorFin&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 <img src="https://widgetbite.com/stats/FinQr" alt="watching_count" />
