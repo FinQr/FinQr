@@ -1,13 +1,6 @@
 ## Skills
 \
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="64" height="64" alt="C++" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="64" height="64" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql.svg" width="64" height="64" alt="PosgreSQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="64" height="64" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="64" height="64" alt="JavaSqript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="64" height="64" alt="TypeSqript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="64" height="64" alt="Angular" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,postgresql,pandas,jupyter,cpp" width="50%" height="50%" alt="skills" />
 
 ## My GitHub Stats
 
@@ -18,5 +11,4 @@
 ## LeetCode
 [![IgorFin's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=IgorFin&theme=Dark)](https://leetcode.com/IgorFin)
 
-
-<img src="https://widgetbite.com/stats/FinQr" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=FinQr&style=for-the-badge" alt="watching_count" />
