@@ -11,4 +11,8 @@
 ## LeetCode
 [![IgorFin's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=IgorFin&theme=Dark)](https://leetcode.com/IgorFin)
 
+## See Also
+
+[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?logoColor=white&style=for-the-badge)](https://www.kaggle.com/igorfinqr)
+
 <img src="https://komarev.com/ghpvc/?username=FinQr&style=for-the-badge" alt="watching_count" />
